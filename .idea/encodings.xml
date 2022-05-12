@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Spring-105-Common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-105-Common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-110-XmlConfiguration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-110-XmlConfiguration/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-120-CP-Scanning/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-120-CP-Scanning/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-130-ConfigClasses/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-130-ConfigClasses/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-140-BeanScopes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-140-BeanScopes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-150-BeanLifecycles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-150-BeanLifecycles/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
